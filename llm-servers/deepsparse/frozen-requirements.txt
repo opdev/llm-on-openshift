@@ -48,7 +48,7 @@ nvidia-cusparse-cu12==12.1.0.106
 nvidia-nccl-cu12==2.19.3
 nvidia-nvjitlink-cu12==12.4.127
 nvidia-nvtx-cu12==12.1.105
-onnx==1.14.1
+onnx==1.17.0
 onnxruntime==1.17.1
 openai==1.16.2
 packaging==24.0
