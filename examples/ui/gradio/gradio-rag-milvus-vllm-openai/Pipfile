@@ -9,7 +9,7 @@ verify_ssl = false
 name = "pytorch"
 
 [packages]
-torch = {version = "==2.2.1+cu121", index = "pytorch"}
+torch = {version = "==2.6.0", index = "pytorch"}
 einops = "==0.7.0"
 gradio = "~=4.19.2"
 langchain = "==0.1.9"
