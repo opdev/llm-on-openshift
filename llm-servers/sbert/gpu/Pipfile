@@ -13,7 +13,7 @@ einops = "~=0.8.0"
 fastapi = "~=0.115.7"
 pip = "~=25.0"
 sentence-transformers = "~=3.4.1"
-torch = {version = "==2.5.1+cu124", index = "pytorch"}
+torch = {version = "==2.6.0+cu124", index = "pytorch"}
 transformers = "~=4.48.1"
 uvicorn = "~=0.34.0"
 wheel = "~=0.45.1"
